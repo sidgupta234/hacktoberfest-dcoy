@@ -22,3 +22,4 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Evan Burkey (@evanburkey)
 * Muriz Serifovic (@Murgio)
 * Siddharth Gupta (@sidgupta234)
+* Dimitris Str (@dstrants)
